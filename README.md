@@ -1,3 +1,9 @@
+---
+sdk: gradio
+sdk_version: 3.34.0
+app_file: src/webui.py
+---
+
 # AI Voice Cloning
 
 > **Note** I do not plan on actively working on improvements/enhancements for this project, this is mainly meant to keep the repo in a working state in the case the original git.ecker goes down or necessary package changes need to be made.
